@@ -66,8 +66,8 @@ Check native Wayland and X11 separately:
 
 See [UI design](ui-design.md#high-dpi-and-4k-displays) for appearance and scaling semantics.
 Protocol/model tests and compilation do not certify visible Plasma rendering, physical monitor
-transitions or portal interaction. The workspace `docs/KDE_INTEGRATION_REPORT.md` records
-the checks actually run; the checklist is not a claim of comprehensive GUI acceptance.
+transitions or portal interaction. The [Recorded verification](#recorded-verification-2026-10-21)
+section lists the checks actually run; the checklist is not a claim of comprehensive GUI acceptance.
 
 ## Recorded verification (2026-10-21)
 

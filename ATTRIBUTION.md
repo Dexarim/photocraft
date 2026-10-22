@@ -17,10 +17,6 @@ The Apache-2.0 license is retained at `vendor/winit/LICENSE`.
 | `vendor/winit/examples/data/gradient.png` | Example gradient | Winit contributors | https://github.com/rust-windowing/winit/tree/v0.30.13/examples/data | Apache-2.0 |
 | `vendor/winit/examples/data/cross.png` | Example cursor | Winit contributors | https://github.com/rust-windowing/winit/tree/v0.30.13/examples/data | Apache-2.0 |
 | `vendor/winit/examples/data/cross2.png` | Example cursor | Winit contributors | https://github.com/rust-windowing/winit/tree/v0.30.13/examples/data | Apache-2.0 |
-| `vendor/winit/docs/res/keyboard_standard_1_key.svg` | Keyboard documentation diagram | Winit contributors | https://github.com/rust-windowing/winit/tree/v0.30.13/docs/res | Apache-2.0 |
-| `vendor/winit/docs/res/keyboard_right_shift_key.svg` | Keyboard documentation diagram | Winit contributors | https://github.com/rust-windowing/winit/tree/v0.30.13/docs/res | Apache-2.0 |
-| `vendor/winit/docs/res/keyboard_numpad_1_key.svg` | Keyboard documentation diagram | Winit contributors | https://github.com/rust-windowing/winit/tree/v0.30.13/docs/res | Apache-2.0 |
-| `vendor/winit/docs/res/keyboard_left_shift_key.svg` | Keyboard documentation diagram | Winit contributors | https://github.com/rust-windowing/winit/tree/v0.30.13/docs/res | Apache-2.0 |
 
 ## Application assets
 
